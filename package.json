@@ -1,0 +1,22 @@
+{
+  "name": "tibia-flags",
+  "version": "0.0.1",
+  "description": "Parse and Generate your tibia flags",
+  "main": "lib/flags.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TibiaJS/tibia-flags.git"
+  },
+  "keywords": [
+    "tibia",
+    "flags",
+    "otserv",
+    "cipsoft"
+  ],
+  "bugs": {
+    "url": "https://github.com/TibiaJS/tibia-flags/issues"
+  },
+  "homepage": "https://github.com/TibiaJS/tibia-flags",
+  "author": "gpedro <gpedro831@gmail.com>",
+  "license": "MIT"
+}

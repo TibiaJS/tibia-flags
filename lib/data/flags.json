@@ -1,0 +1,269 @@
+[
+
+  {
+    "name": "PlayerFlag_CannotUseCombat",
+    "desc": "Can not use combat",
+    "value": "1",
+    "cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_CannotAttackPlayer",
+    "desc": "Can not attack players",
+    "value": "2",
+    "cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_CannotAttackMonster",
+    "desc": "Can not attack monsters",
+    "value": "4",
+    "cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_CannotBeAttacked",
+    "desc": "Can not be attacked",
+    "value": "8",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanConvinceAll",
+    "desc": "Can convince all monsters",
+    "value": "16",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanSummonAll",
+    "desc": "Can summon all monsters",
+    "value": "32",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanIllusionAll",
+    "desc": "Can illusion all monsters",
+    "value": "64",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanSenseInvisibility",
+    "desc": "Can sense invisibility",
+    "value": "128",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_IgnoredByMonsters",
+    "desc": "Ignored by monsters",
+    "value": "256",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_NotGainInFight",
+    "desc": "Do not gain infight",
+    "value": "512",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_HasInfiniteMana",
+    "desc": "Has infinite mana",
+    "value": "1024",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_HasInfiniteSoul",
+    "desc": "Has infinite soul",
+    "value": "2048",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_HasNoExhaustion",
+    "desc": "Do not have exhaustion",
+    "value": "4096",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CannotUseSpells",
+    "desc": "Cannot use spells",
+    "value": "8192",
+    "cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_CannotPickupItem",
+    "desc": "Cannot pickup items",
+    "value": "16384",
+    "cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_CanAlwaysLogin",
+    "desc": "Can always login",
+    "value": "32768",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanBroadcast",
+    "desc": "Can broadcast",
+    "value": "65536",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanEditHouses",
+    "desc": "Can edit all house rights",
+    "value": "131072",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CannotBeBanned",
+    "desc": "Can not be banned",
+    "value": "262144",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CannotBePushed",
+    "desc": "Can not be pushed",
+    "value": "524288",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_HasInfiniteCapacity",
+    "desc": "Has infinite capacity",
+    "value": "1048576",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanPushAllCreatures",
+    "desc": "Can push all creatures",
+    "value": "2097152",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanTalkRedPrivate",
+    "desc": "Talk red in private",
+    "value": "4194304",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanTalkRedChannel",
+    "desc": "Talk red in channel",
+    "value": "8388608",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_TalkOrangeHelpChannel",
+    "desc": "Talk orange in help-channel",
+    "value": "16777216",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_NotGainExperience",
+    "desc": "Do not gain experience",
+    "value": "33554432",
+    "cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_NotGainMana",
+    "desc": "Do not gain mana",
+    "value": "67108864",
+    "cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_NotGainHealth",
+    "desc": "Do not gain health",
+    "value": "134217728",
+    "cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_NotGainSkill",
+    "desc": "Do not gain skill",
+    "value": "268435456",
+    "cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_SetMaxSpeed",
+    "desc": "Gain max speed",
+    "value": "536870912",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_SpecialVIP",
+    "desc": "Cannot be added to VIP",
+    "value": "1073741824",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_NotGenerateLoot",
+    "desc": "Can not gain loot",
+    "value": "2147483648",
+    "cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_CanTalkRedChannelAnonymous",
+    "desc": "Talk red anonymously",
+    "value": "4294967296",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_IgnoreProtectionZone",
+    "desc": "Ignore protection-zone",
+    "value": "8589934592",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_IgnoreSpellCheck",
+    "desc": "Skip spell usage checks",
+    "value": "17179869184",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_IgnoreWeaponCheck",
+    "desc": "Skip equip usage checks",
+    "value": "34359738368",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CannotBeMuted",
+    "desc": "Can not be muted",
+    "value": "68719476736",
+    "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_IsAlwaysPremium",
+    "desc": "Permanent premium account",
+    "value": "137438953472",
+    "cat": "privileges"
+  }
+
+]
