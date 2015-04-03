@@ -320,6 +320,13 @@
 	"desc": "Can see special description (uid, position...)",
 	"value": "35184372088832",
 	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CannotBeSeen",
+	"desc": "Can not be seen (completely invisible)",
+	"value": "70368744177664",
+	"cat": "privileges"
   }
 
 ]
