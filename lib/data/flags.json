@@ -313,6 +313,13 @@
 	"desc": "Can file bug reports",
 	"value": "17592186044416",
 	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanSeeSpecialDescription",
+	"desc": "Can see special description (uid, position...)",
+	"value": "35184372088832",
+	"cat": "privileges"
   }
 
 ]
