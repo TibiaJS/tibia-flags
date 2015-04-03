@@ -264,6 +264,13 @@
     "desc": "Permanent premium account",
     "value": "137438953472",
     "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanAnswerRuleViolations",
+	"desc": "Can answer rule violations",
+	"value": "274877906944",
+	"cat": "privileges"
   }
 
 ]
