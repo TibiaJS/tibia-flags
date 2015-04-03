@@ -285,6 +285,13 @@
 	"desc": "Show player group instead of vocation",
 	"value": "1099511627776",
 	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_HasInfiniteStamina",
+	"desc": "Has infinite stamina",
+	"value": "2199023255552",
+	"cat": "privileges"
   }
 
 ]
