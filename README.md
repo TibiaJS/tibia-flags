@@ -2,7 +2,7 @@
 Generate or Parse Tibia Flags to use
 
 ## Supported Versions
-* Tested only [TFS 1.0](https://github.com/otland/forgottenserver/)
+* Tested on [TFS 1.0](https://github.com/otland/forgottenserver/) and [Open Tibia Server](https://github.com/opentibia/server/)
 
 ## API
   * getFlagsByNumber(flag)
