@@ -299,6 +299,13 @@
 	"desc": "Can not move items",
 	"value": "4398046511104",
 	"cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_CannotMoveCreatures",
+	"desc": "Can not move creatures (including players)",
+	"value": "8796093022208",
+	"cat": "limitations"
   }
 
 ]
