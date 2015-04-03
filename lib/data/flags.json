@@ -264,6 +264,69 @@
     "desc": "Permanent premium account",
     "value": "137438953472",
     "cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanAnswerRuleViolations",
+	"desc": "Can answer rule violations",
+	"value": "274877906944",
+	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanReloadContent",
+	"desc": "Can reload server content",
+	"value": "549755813888",
+	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_ShowGroupInsteadOfVocation",
+	"desc": "Show player group instead of vocation",
+	"value": "1099511627776",
+	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_HasInfiniteStamina",
+	"desc": "Has infinite stamina",
+	"value": "2199023255552",
+	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CannotMoveItems",
+	"desc": "Can not move items",
+	"value": "4398046511104",
+	"cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_CannotMoveCreatures",
+	"desc": "Can not move creatures (including players)",
+	"value": "8796093022208",
+	"cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_CanReportBugs",
+	"desc": "Can file bug reports",
+	"value": "17592186044416",
+	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanSeeSpecialDescription",
+	"desc": "Can see special description (uid, position...)",
+	"value": "35184372088832",
+	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CannotBeSeen",
+	"desc": "Can not be seen (completely invisible)",
+	"value": "70368744177664",
+	"cat": "privileges"
   }
 
 ]
