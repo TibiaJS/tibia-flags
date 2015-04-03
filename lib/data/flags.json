@@ -278,6 +278,13 @@
 	"desc": "Can reload server content",
 	"value": "549755813888",
 	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_ShowGroupInsteadOfVocation",
+	"desc": "Show player group instead of vocation",
+	"value": "1099511627776",
+	"cat": "privileges"
   }
 
 ]
