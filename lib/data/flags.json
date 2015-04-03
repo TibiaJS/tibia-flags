@@ -292,6 +292,13 @@
 	"desc": "Has infinite stamina",
 	"value": "2199023255552",
 	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CannotMoveItems",
+	"desc": "Can not move items",
+	"value": "4398046511104",
+	"cat": "limitations"
   }
 
 ]
