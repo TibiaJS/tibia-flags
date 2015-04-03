@@ -306,6 +306,13 @@
 	"desc": "Can not move creatures (including players)",
 	"value": "8796093022208",
 	"cat": "limitations"
+  },
+
+  {
+    "name": "PlayerFlag_CanReportBugs",
+	"desc": "Can file bug reports",
+	"value": "17592186044416",
+	"cat": "privileges"
   }
 
 ]
