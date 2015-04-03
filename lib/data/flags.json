@@ -271,6 +271,13 @@
 	"desc": "Can answer rule violations",
 	"value": "274877906944",
 	"cat": "privileges"
+  },
+
+  {
+    "name": "PlayerFlag_CanReloadContent",
+	"desc": "Can reload server content",
+	"value": "549755813888",
+	"cat": "privileges"
   }
 
 ]
